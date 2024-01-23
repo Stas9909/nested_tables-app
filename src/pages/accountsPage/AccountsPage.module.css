@@ -1,0 +1,49 @@
+.tableContainer{
+  height: 65vh;
+}
+
+.accountsTable {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.accountsTable th,
+.accountsTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.accountsTable tr:hover {
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+.accountWrapper ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0;
+  margin-top: 30px;
+}
+
+.accountWrapper li {
+  padding: 10px;
+}
+
+.accountWrapper a {
+  font-size: large;
+  font-weight: bold;
+}
+
+.accountWrapper a:hover {
+  color: #646cff;
+  cursor: pointer;
+}
+
+.active {
+  font-weight: bold;
+  color: #007bff; 
+}

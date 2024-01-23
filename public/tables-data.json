@@ -1,0 +1,1158 @@
+[
+  {
+    "accountId": "1",
+    "email": "company1@example.com",
+    "authToken": "a1b2c3d4",
+    "creationDate": "2024-01-19",
+    "profiles": [
+      {
+        "profileId": "1",
+        "country": "USA",
+        "marketplace": "Amazon",
+        "campaigns": [
+          {
+            "campaignId": "1",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2024-01-21"
+          },
+          {
+            "campaignId": "2",
+            "clicks": 300,
+            "cost": 800,
+           "date": "2024-01-22"
+          },
+          {
+            "campaignId": "3",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-01-23"
+          }
+        ]
+      },
+      {
+        "profileId": "2",
+        "country": "UK",
+        "marketplace": "eBay",
+        "campaigns": [
+          {
+            "campaignId": "4",
+            "clicks": 400,
+            "cost": 900,
+            "date": "2024-01-24"
+          },
+          {
+            "campaignId": "5",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-01-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "2",
+    "email": "company2@example.com",
+    "authToken": "e5f6g7h8",
+    "creationDate": "2024-01-20",
+    "profiles": [
+      {
+        "profileId": "3",
+        "country": "Germany",
+        "marketplace": "Zalando",
+        "campaigns": [
+          {
+            "campaignId": "6",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2024-01-26"
+          },
+          {
+            "campaignId": "7",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2024-01-27"
+          }
+        ]
+      },
+      {
+        "profileId": "4",
+        "country": "France",
+        "marketplace": "Cdiscount",
+        "campaigns": [
+          {
+            "campaignId": "8",
+            "clicks": 300,
+            "cost": 800,
+            "date": "2024-01-28"
+          },
+          {
+            "campaignId": "9",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-01-29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "3",
+    "email": "company3@example.com",
+    "authToken": "i9j8h7g6f5",
+    "creationDate": "2023-01-21",
+    "profiles": [
+      {
+        "profileId": "5",
+        "country": "Canada",
+        "marketplace": "Shopify",
+        "campaigns": [
+          {
+            "campaignId": "11",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2023-02-01"
+          },
+          {
+            "campaignId": "12",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2023-02-02"
+          }
+        ]
+      },
+      {
+        "profileId": "6",
+        "country": "Australia",
+        "marketplace": "Etsy",
+        "campaigns": [
+          {
+            "campaignId": "13",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2023-02-03"
+          },
+          {
+            "campaignId": "14",
+            "clicks": 400,
+            "cost": 850,
+            "date": "2023-02-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "4",
+    "email": "company4@example.com",
+    "authToken": "l3k4j5h6g7",
+    "creationDate": "2024-01-22",
+    "profiles": [
+      {
+        "profileId": "7",
+        "country": "Japan",
+        "marketplace": "Rakuten",
+        "campaigns": [
+          {
+            "campaignId": "15",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-02-05"
+          },
+          {
+            "campaignId": "16",
+            "clicks": 300,
+            "cost": 800,
+            "date": "2024-02-06"
+          }
+        ]
+      },
+      {
+        "profileId": "8",
+        "country": "Brazil",
+        "marketplace": "MercadoLibre",
+        "campaigns": [
+          {
+            "campaignId": "17",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2024-02-07"
+          },
+          {
+            "campaignId": "18",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2024-02-08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "5",
+    "email": "company5@example.com",
+    "authToken": "t5u6v7w8x9",
+    "creationDate": "2024-01-23",
+    "profiles": [
+      {
+        "profileId": "9",
+        "country": "India",
+        "marketplace": "Flipkart",
+        "campaigns": [
+          {
+            "campaignId": "19",
+            "clicks": 750,
+            "cost": 1250,
+            "date": "2024-02-09"
+          },
+          {
+            "campaignId": "20",
+            "clicks": 350,
+            "cost": 900,
+            "date": "2024-02-10"
+          }
+        ]
+      },
+      {
+        "profileId": "10",
+        "country": "South Korea",
+        "marketplace": "Coupang",
+        "campaigns": [
+          {
+            "campaignId": "21",
+            "clicks": 900,
+            "cost": 1400,
+            "date": "2024-02-11"
+          },
+          {
+            "campaignId": "22",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-02-12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "6",
+    "email": "company6@example.com",
+    "authToken": "q1w2e3r4t5",
+    "creationDate": "2024-01-24",
+    "profiles": [
+      {
+        "profileId": "11",
+        "country": "Spain",
+        "marketplace": "El Corte Inglés",
+        "campaigns": [
+          {
+            "campaignId": "23",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2024-02-13"
+          },
+          {
+            "campaignId": "24",
+            "clicks": 350,
+            "cost": 900,
+            "date": "2024-02-14"
+          }
+        ]
+      },
+      {
+        "profileId": "12",
+        "country": "Italy",
+        "marketplace": "Alibaba",
+        "campaigns": [
+          {
+            "campaignId": "25",
+            "clicks": 650,
+            "cost": 1150,
+            "date": "2024-02-15"
+          },
+          {
+            "campaignId": "26",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-02-16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "7",
+    "email": "company7@example.com",
+    "authToken": "y9u8i7o6p5",
+    "creationDate": "2023-01-25",
+    "profiles": [
+      {
+        "profileId": "13",
+        "country": "Netherlands",
+        "marketplace": "Bol.com",
+        "campaigns": [
+          {
+            "campaignId": "27",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2023-02-17"
+          },
+          {
+            "campaignId": "28",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2023-02-18"
+          }
+        ]
+      },
+      {
+        "profileId": "14",
+        "country": "Sweden",
+        "marketplace": "CDON",
+        "campaigns": [
+          {
+            "campaignId": "29",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2023-02-19"
+          },
+          {
+            "campaignId": "30",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2023-02-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "8",
+    "email": "company8@example.com",
+    "authToken": "m4n5b6v7c8",
+    "creationDate": "2024-01-26",
+    "profiles": [
+      {
+        "profileId": "15",
+        "country": "Russia",
+        "marketplace": "Wildberries",
+        "campaigns": [
+          {
+            "campaignId": "31",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-02-21"
+          },
+          {
+            "campaignId": "32",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2024-02-22"
+          }
+        ]
+      },
+      {
+        "profileId": "16",
+        "country": "China",
+        "marketplace": "Taobao",
+        "campaigns": [
+          {
+            "campaignId": "33",
+            "clicks": 650,
+            "cost": 1150,
+            "date": "2024-02-23"
+          },
+          {
+            "campaignId": "34",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-02-24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "9",
+    "email": "company9@example.com",
+    "authToken": "z3x4c5v6b7",
+    "creationDate": "2024-01-27",
+    "profiles": [
+      {
+        "profileId": "17",
+        "country": "Mexico",
+        "marketplace": "MercadoLibre",
+        "campaigns": [
+          {
+            "campaignId": "35",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2024-02-25"
+          },
+          {
+            "campaignId": "36",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-02-26"
+          }
+        ]
+      },
+      {
+        "profileId": "18",
+        "country": "Argentina",
+        "marketplace": "MercadoLibre",
+        "campaigns": [
+          {
+            "campaignId": "37",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2024-02-27"
+          },
+          {
+            "campaignId": "38",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-02-28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "10",
+    "email": "company10@example.com",
+    "authToken": "l9o8p7k6j5",
+    "creationDate": "2024-01-28",
+    "profiles": [
+      {
+        "profileId": "19",
+        "country": "South Africa",
+        "marketplace": "Takealot",
+        "campaigns": [
+          {
+            "campaignId": "39",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2024-03-01"
+          },
+          {
+            "campaignId": "40",
+            "clicks": 350,
+            "cost": 900,
+            "date": "2024-03-02"
+          }
+        ]
+      },
+      {
+        "profileId": "20",
+        "country": "Nigeria",
+        "marketplace": "Jumia",
+        "campaigns": [
+          {
+            "campaignId": "41",
+            "clicks": 650,
+            "cost": 1150,
+            "date": "2024-03-03"
+          },
+          {
+            "campaignId": "42",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-03-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "11",
+    "email": "company11@example.com",
+    "authToken": "z1x2c3v4b5",
+    "creationDate": "2024-01-29",
+    "profiles": [
+      {
+        "profileId": "21",
+        "country": "Singapore",
+        "marketplace": "Lazada",
+        "campaigns": [
+          {
+            "campaignId": "43",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2024-03-05"
+          },
+          {
+            "campaignId": "44",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-03-06"
+          }
+        ]
+      },
+      {
+        "profileId": "22",
+        "country": "Malaysia",
+        "marketplace": "Shopee",
+        "campaigns": [
+          {
+            "campaignId": "45",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2024-03-07"
+          },
+          {
+            "campaignId": "46",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-03-08"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "12",
+    "email": "company12@example.com",
+    "authToken": "m8n7b6v5c4",
+    "creationDate": "2023-01-30",
+    "profiles": [
+      {
+        "profileId": "23",
+        "country": "Thailand",
+        "marketplace": "Lazada",
+        "campaigns": [
+          {
+            "campaignId": "47",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2023-03-09"
+          },
+          {
+            "campaignId": "48",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2023-03-10"
+          }
+        ]
+      },
+      {
+        "profileId": "24",
+        "country": "Vietnam",
+        "marketplace": "Shopee",
+        "campaigns": [
+          {
+            "campaignId": "49",
+            "clicks": 650,
+            "cost": 1150,
+            "date": "2023-03-11"
+          },
+          {
+            "campaignId": "50",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2023-03-12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "13",
+    "email": "company13@example.com",
+    "authToken": "k3j4h5g6f7",
+    "creationDate": "2024-01-31",
+    "profiles": [
+      {
+        "profileId": "25",
+        "country": "Indonesia",
+        "marketplace": "Tokopedia",
+        "campaigns": [
+          {
+            "campaignId": "51",
+            "clicks": 750,
+            "cost": 1250,
+            "date": "2024-03-13"
+          },
+          {
+            "campaignId": "52",
+            "clicks": 350,
+            "cost": 900,
+            "date": "2024-03-14"
+          }
+        ]
+      },
+      {
+        "profileId": "26",
+        "country": "Philippines",
+        "marketplace": "Lazada",
+        "campaigns": [
+          {
+            "campaignId": "53",
+            "clicks": 850,
+            "cost": 1350,
+            "date": "2024-03-15"
+          },
+          {
+            "campaignId": "54",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2024-03-16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "14",
+    "email": "company14@example.com",
+    "authToken": "q9w8e7r6t5",
+    "creationDate": "2024-02-01",
+    "profiles": [
+      {
+        "profileId": "27",
+        "country": "Saudi Arabia",
+        "marketplace": "Souq",
+        "campaigns": [
+          {
+            "campaignId": "55",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-03-17"
+          },
+          {
+            "campaignId": "56",
+            "clicks": 300,
+            "cost": 800,
+            "date": "2024-03-18"
+          }
+        ]
+      },
+      {
+        "profileId": "28",
+        "country": "United Arab Emirates",
+        "marketplace": "Noon",
+        "campaigns": [
+          {
+            "campaignId": "57",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-03-19"
+          },
+          {
+            "campaignId": "58",
+            "clicks": 400,
+            "cost": 850,
+            "date": "2024-03-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "15",
+    "email": "company15@example.com",
+    "authToken": "y5u6i7o8p9",
+    "creationDate": "2023-02-02",
+    "profiles": [
+      {
+        "profileId": "29",
+        "country": "Turkey",
+        "marketplace": "Trendyol",
+        "campaigns": [
+          {
+            "campaignId": "59",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2023-03-21"
+          },
+          {
+            "campaignId": "60",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2023-03-22"
+          }
+        ]
+      },
+      {
+        "profileId": "30",
+        "country": "Greece",
+        "marketplace": "Skroutz",
+        "campaigns": [
+          {
+            "campaignId": "61",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2023-03-23"
+          },
+          {
+            "campaignId": "62",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2023-03-24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "16",
+    "email": "company16@example.com",
+    "authToken": "z1x2c3v4b5",
+    "creationDate": "2024-02-03",
+    "profiles": [
+      {
+        "profileId": "31",
+        "country": "Poland",
+        "marketplace": "Allegro",
+        "campaigns": [
+          {
+            "campaignId": "63",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-03-25"
+          },
+          {
+            "campaignId": "64",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2024-03-26"
+          }
+        ]
+      },
+      {
+        "profileId": "32",
+        "country": "Germany",
+        "marketplace": "Zalando",
+        "campaigns": [
+          {
+            "campaignId": "65",
+            "clicks": 650,
+            "cost": 1150,
+            "date": "2024-03-27"
+          },
+          {
+            "campaignId": "66",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-03-28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "17",
+    "email": "company17@example.com",
+    "authToken": "m8n7b6v5c4",
+    "creationDate": "2024-02-04",
+    "profiles": [
+      {
+        "profileId": "33",
+        "country": "France",
+        "marketplace": "Cdiscount",
+        "campaigns": [
+          {
+            "campaignId": "67",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-03-29"
+          },
+          {
+            "campaignId": "68",
+            "clicks": 300,
+            "cost": 800,
+            "date": "2024-03-30"
+          }
+        ]
+      },
+      {
+        "profileId": "34",
+        "country": "United Kingdom",
+        "marketplace": "Amazon UK",
+        "campaigns": [
+          {
+            "campaignId": "69",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-03-31"
+          },
+          {
+            "campaignId": "70",
+            "clicks": 400,
+            "cost": 850,
+            "date": "2024-04-01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "18",
+    "email": "company18@example.com",
+    "authToken": "k3j4h5g6f7",
+    "creationDate": "2024-02-05",
+    "profiles": [
+      {
+        "profileId": "35",
+        "country": "Spain",
+        "marketplace": "El Corte Inglés",
+        "campaigns": [
+          {
+            "campaignId": "71",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2024-04-02"
+          },
+          {
+            "campaignId": "72",
+            "clicks": 350,
+            "cost": 900,
+            "date": "2024-04-03"
+          }
+        ]
+      },
+      {
+        "profileId": "36",
+        "country": "Italy",
+        "marketplace": "Alibaba",
+        "campaigns": [
+          {
+            "campaignId": "73",
+            "clicks": 650,
+            "cost": 1150,
+            "date": "2024-04-04"
+          },
+          {
+            "campaignId": "74",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-04-05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "19",
+    "email": "company19@example.com",
+    "authToken": "q9w8e7r6t5",
+    "creationDate": "2024-02-06",
+    "profiles": [
+      {
+        "profileId": "37",
+        "country": "Germany",
+        "marketplace": "Otto",
+        "campaigns": [
+          {
+            "campaignId": "75",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2024-04-06"
+          },
+          {
+            "campaignId": "76",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-04-07"
+          }
+        ]
+      },
+      {
+        "profileId": "38",
+        "country": "Netherlands",
+        "marketplace": "Bol.com",
+        "campaigns": [
+          {
+            "campaignId": "77",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2024-04-08"
+          },
+          {
+            "campaignId": "78",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-04-09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "20",
+    "email": "company20@example.com",
+    "authToken": "y5u6i7o8p9",
+    "creationDate": "2023-02-07",
+    "profiles": [
+      {
+        "profileId": "39",
+        "country": "Turkey",
+        "marketplace": "Trendyol",
+        "campaigns": [
+          {
+            "campaignId": "79",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2023-04-10"
+          },
+          {
+            "campaignId": "80",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2023-04-11"
+          }
+        ]
+      },
+      {
+        "profileId": "40",
+        "country": "Greece",
+        "marketplace": "Skroutz",
+        "campaigns": [
+          {
+            "campaignId": "81",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2023-04-12"
+          },
+          {
+            "campaignId": "82",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2023-04-13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "21",
+    "email": "company21@example.com",
+    "authToken": "z1x2c3v4b5",
+    "creationDate": "2024-02-08",
+    "profiles": [
+      {
+        "profileId": "41",
+        "country": "Poland",
+        "marketplace": "Allegro",
+        "campaigns": [
+          {
+            "campaignId": "83",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-04-14"
+          },
+          {
+            "campaignId": "84",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2024-04-15"
+          }
+        ]
+      },
+      {
+        "profileId": "42",
+        "country": "Germany",
+        "marketplace": "Zalando",
+        "campaigns": [
+          {
+            "campaignId": "85",
+            "clicks": 650,
+            "cost": 1150,
+            "date": "2024-04-16"
+          },
+          {
+            "campaignId": "86",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-04-17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "22",
+    "email": "company22@example.com",
+    "authToken": "m8n7b6v5c4",
+    "creationDate": "2024-02-09",
+    "profiles": [
+      {
+        "profileId": "43",
+        "country": "France",
+        "marketplace": "Cdiscount",
+        "campaigns": [
+          {
+            "campaignId": "87",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-04-18"
+          },
+          {
+            "campaignId": "88",
+            "clicks": 300,
+            "cost": 800,
+            "date": "2024-04-19"
+          }
+        ]
+      },
+      {
+        "profileId": "44",
+        "country": "United Kingdom",
+        "marketplace": "Amazon UK",
+        "campaigns": [
+          {
+            "campaignId": "89",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-04-20"
+          },
+          {
+            "campaignId": "90",
+            "clicks": 400,
+            "cost": 850,
+            "date": "2024-04-21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "23",
+    "email": "company23@example.com",
+    "authToken": "k3j4h5g6f7",
+    "creationDate": "2024-02-10",
+    "profiles": [
+      {
+        "profileId": "45",
+        "country": "Spain",
+        "marketplace": "El Corte Inglés",
+        "campaigns": [
+          {
+            "campaignId": "91",
+            "clicks": 550,
+            "cost": 1050,
+            "date": "2024-04-22"
+          },
+          {
+            "campaignId": "92",
+            "clicks": 350,
+            "cost": 900,
+            "date": "2024-04-23"
+          }
+        ]
+      },
+      {
+        "profileId": "46",
+        "country": "Italy",
+        "marketplace": "Alibaba",
+        "campaigns": [
+          {
+            "campaignId": "93",
+            "clicks": 650,
+            "cost": 1150,
+            "date": "2024-04-24"
+          },
+          {
+            "campaignId": "94",
+            "clicks": 450,
+            "cost": 950,
+            "date": "2024-04-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "24",
+    "email": "company24@example.com",
+    "authToken": "q9w8e7r6t5",
+    "creationDate": "2024-02-11",
+    "profiles": [
+      {
+        "profileId": "47",
+        "country": "Germany",
+        "marketplace": "Otto",
+        "campaigns": [
+          {
+            "campaignId": "95",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2024-04-26"
+          },
+          {
+            "campaignId": "96",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2024-04-27"
+          }
+        ]
+      },
+      {
+        "profileId": "48",
+        "country": "Netherlands",
+        "marketplace": "Bol.com",
+        "campaigns": [
+          {
+            "campaignId": "97",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2024-04-28"
+          },
+          {
+            "campaignId": "98",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2024-04-29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "accountId": "25",
+    "email": "company25@example.com",
+    "authToken": "y5u6i7o8p9",
+    "creationDate": "2023-02-12",
+    "profiles": [
+      {
+        "profileId": "49",
+        "country": "Turkey",
+        "marketplace": "Trendyol",
+        "campaigns": [
+          {
+            "campaignId": "99",
+            "clicks": 500,
+            "cost": 1000,
+            "date": "2023-04-30"
+          },
+          {
+            "campaignId": "100",
+            "clicks": 700,
+            "cost": 1200,
+            "date": "2023-05-01"
+          }
+        ]
+      },
+      {
+        "profileId": "50",
+        "country": "Greece",
+        "marketplace": "Skroutz",
+        "campaigns": [
+          {
+            "campaignId": "101",
+            "clicks": 800,
+            "cost": 1300,
+            "date": "2023-05-02"
+          },
+          {
+            "campaignId": "102",
+            "clicks": 600,
+            "cost": 1100,
+            "date": "2023-05-03"
+          }
+        ]
+      }
+    ]
+  }
+]
